@@ -1,0 +1,4 @@
+restricted_model,unrestricted_model,f_stat,p_value,df_diff,decision_5pct
+M1_simple,M2_extended,71.92054627838293,1.3523737872726616e-176,14.0,reject H0
+M2_extended,M3_full,2.7118358193136487,4.131886635258376e-05,21.0,reject H0
+M1_simple,M3_full,30.740736103481478,3.634826171215566e-171,35.0,reject H0

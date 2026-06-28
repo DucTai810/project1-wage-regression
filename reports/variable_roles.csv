@@ -1,8 +1,0 @@
-﻿"variable","role","action","note"
-"lwage","target","keep","Main regression target."
-"wage","raw target source","EDA only","Do not use as predictor for lwage."
-"id","identifier","drop","No statistical meaning."
-"educ, exper, expersq, IQ, KWW, fatheduc, motheduc","numeric predictors","keep","Median imputation for missing IQ, KWW, fatheduc, motheduc in model data."
-"black, south, smsa, nearc2, nearc4, family and region dummies","binary predictors","keep","reg661 omitted from model data as region baseline."
-"married","categorical predictor","one-hot encode","Baseline category is married_1 omitted."
-"enroll, age, weight","not used in Project 1 model file","drop from prepared files","Can be revisited if the research question changes."
